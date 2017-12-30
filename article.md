@@ -16,7 +16,7 @@ Using Schwab et.al. (2000) recommendations of reproducibility of research in the
 | Documentation | the documentation of the data set, and the codes will enable replication |
 | Distribution | The codes, software, and the documentation must be made available to others |
 
-(schwab2000). 
+\cite{Schwab2000}. 
 
 While raw data can be complex and for researchers, it'd be necessary only to work on a subset of the raw data to enable replication of the results. Hence Peng and Zeger suggest that at the least, the analytical data set should be made available to the other researchers. In their study on the extent to which observational epidemiological studies were also reproducible, Peng and Zeger conducted an analysis of the published literature of observational epidemiological studies and found that in their selection of 90 studies published in 2005, none (0/90) had codes for statistical procedures were made available; further, 43/69 (62.3%) did not report the methods used for processing the data they used for analysis. They found that 93% of the articles did not report how the measured data were processed, and therefore one could not replicate the results with new data. 
 
