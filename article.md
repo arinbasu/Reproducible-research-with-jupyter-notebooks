@@ -117,4 +117,3 @@ kable(sum_mydata)
 ```
 
 
-
