@@ -8,12 +8,6 @@ Preprints provide an opportunity for wider dissemination of an author's work whi
 
 
 
-```R
-! ls
-```
 
-
-    Error in !ls: invalid argument type
-    Traceback:
 
 
