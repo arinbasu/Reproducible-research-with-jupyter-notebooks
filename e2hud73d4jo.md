@@ -8,4 +8,4 @@ In this paper, we have used Authorea and Jupyter notebooks to do reproducible re
 
 Preprints provide an opportunity for wider dissemination of an author's work while the research waits for formal peer review and publication in journals that distribute the work. Preprint servers that can host public health related analyses may include [PeerJ preprint system](http://www.peerj.com), or [F1000](http://www.f1000.com). For this article, if you want to edit the original ipynb file, you can either:
 
-1. Download the ipynb notebook file by clicking on the image (you will get access to the data and the ip)
+1. Download the ipynb notebook file by clicking on the image (you will get access to the data and the notebook file)
