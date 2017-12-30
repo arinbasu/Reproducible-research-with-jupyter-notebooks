@@ -117,7 +117,7 @@ kable(sum_mydata)
 ```
 
 
-Table 1. The resul    
+Table 1. The results of the summary     
     
     | Continent|  mean_afr| mean_alr| mean_gnipercap| mean_psenrol_f|  mean_pbp|
     |---------:|---------:|--------:|--------------:|--------------:|---------:|
