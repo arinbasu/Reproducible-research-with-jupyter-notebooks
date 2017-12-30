@@ -1,5 +1,5 @@
 Table 1. The results of the summary analyses    
-    
+
     | Continent|  mean_afr| mean_alr| mean_gnipercap| mean_psenrol_f|  mean_pbp|
     |---------|---------|--------|--------------|--------------|---------------|
     |         1|  37.30000| 76.90000|      14893.529|       85.78947|  2.366667|
