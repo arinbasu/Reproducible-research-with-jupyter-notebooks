@@ -115,5 +115,3 @@ sum_mydata <- mydatar1 %>%
 
 kable(sum_mydata)
 ```
-
-
