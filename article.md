@@ -1,7 +1,7 @@
 
 ## Reproducible research in public health with Jupyter notebooks
 
-Reproducible and replicable research refer to a process of research where researchers share transparent and reliable work processes online or through other means so that their work can be both repeated and replicated by others. As epidemiologic research is increasingly focussed on identifying risk factors that are small in magnitude and therefore has many confounding variables that need to be adjusted for, and as increasing amount of data are now made available in the public domain for independent researchers and analysts to verify and test the validity of earlier research, Pen\cite{Peng2006} suggest that for public health, reproducibility should be a minimum criterion. They suggest: 
+Reproducible and replicable research refer to a process of research where researchers share transparent and reliable work processes online or through other means so that their work can be both repeated and replicated by others. As epidemiologic research is increasingly focussed on identifying risk factors that are small in magnitude and therefore has many confounding variables that need to be adjusted for, and as increasing amount of data are now made available in the public domain for independent researchers and analysts to verify and test the validity of earlier research, Peng and Ze\cite{Peng2006} suggest that for public health, reproducibility should be a minimum criterion. They suggest: 
 
 > The reproducibility of epidemiologic findings from current and future studies will be crucial to providing the substance for informed debate regarding policies affecting the public's health
 
