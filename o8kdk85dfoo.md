@@ -1,5 +1,9 @@
 
 
+
+
+
+
 Figure 1. Mean Adult Literacy Rate by Continent
 ![Mean Adult Literacy](alr_cont.png)
 
