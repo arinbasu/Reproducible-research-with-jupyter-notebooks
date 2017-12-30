@@ -148,7 +148,6 @@ dev.off()
 
 
 
-<strong>pdf:</strong> 2
 
 
 Figure 1. Mean Adult Literacy Rate by Continent
