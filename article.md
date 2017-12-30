@@ -78,42 +78,6 @@ mydata <- read_csv("WHO.csv", na = "")
 # Let's create a short version of the data set with first 12 variables
 ```
 
-    ── Attaching packages ─────────────────────────────────────── tidyverse 1.2.1 ──
-    ✔ ggplot2 2.2.1     ✔ purrr   0.2.4
-    ✔ tibble  1.3.4     ✔ dplyr   0.7.4
-    ✔ tidyr   0.7.2     ✔ stringr 1.2.0
-    ✔ readr   1.1.1     ✔ forcats 0.2.0
-    ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-    ✖ dplyr::filter() masks stats::filter()
-    ✖ dplyr::lag()    masks stats::lag()
-    Parsed with column specification:
-    cols(
-      .default = col_double(),
-      Country = col_character(),
-      CountryID = col_integer(),
-      Continent = col_integer(),
-      `Adolescent fertility rate (%)` = col_integer(),
-      `Gross national income per capita (PPP international $)` = col_integer(),
-      `Net primary school enrolment ratio female (%)` = col_integer(),
-      `Net primary school enrolment ratio male (%)` = col_integer(),
-      `Population (in thousands) total` = col_integer(),
-      `Population in urban areas (%)` = col_integer(),
-      `Population median age (years)` = col_integer(),
-      `Population proportion over 60 (%)` = col_integer(),
-      `Population proportion under 15 (%)` = col_integer(),
-      `Registration coverage of births (%)` = col_integer(),
-      `Antenatal care coverage - at least four visits (%)` = col_integer(),
-      `Antiretroviral therapy coverage among HIV-infected pregt women for PMTCT (%)` = col_integer(),
-      `Antiretroviral therapy coverage among people with advanced HIV infections (%)` = col_integer(),
-      `Births attended by skilled health personnel (%)` = col_integer(),
-      `Births by caesarean section (%)` = col_integer(),
-      `Neonates protected at birth against neonatal tetanus (PAB) (%)` = col_integer(),
-      `One-year-olds immunized with MCV` = col_integer()
-      # ... with 100 more columns
-    )
-    See spec(...) for full column specifications.
-
-
 
 ```R
 mydatar <- mydata[, c(1:12)]
