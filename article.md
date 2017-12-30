@@ -145,27 +145,3 @@ ggplot(sum_mydata) +
 dev.off() 
 ```
 
-
-
-Figure 1. Mean Adult Literacy Rate by Continent
-![Mean Adult Literacy](alr_cont.png)
-
-## Discussion
-
-We presented here a simple example of how to interweave data, codes and narrative to annotate the text that can be used for generating insights into public health. In literate programming, Donald Knuth (1984) his idea of weaving a 'story' of ideas and codes (cite knuth1984). In this paper, we have shown that public health professionals can scrape or obtain or data from public data depository such as maintained by the World Health organisation webpage, then clean and preprocess the data using python, R, or Julia for developing graphs and tables to clean the data and explore the data. In our simple example, we have provided the data source in a github repository that anyone can access; we have also provided sample codes and a live notebook that anyone can download and modify or use on his or her own, and examine and modify. We have thus openly and freely distributed our data analysis source code and the source code of writing the paper. [Authorea](https://www.authorea.com) provides a medium where one can write and present ideas.
-
-In this paper, we have used Authorea and Jupyter notebooks to do reproducible research using R for statistical computing and pandoc as document converter. Such a workflow is also possible with other open source tools. Yihui Xie (2014) wrote the package "knitr" (xie2014). Using an accompanying software [Rstudio](http://www.rstudio.com), it is possible to output reproducible research in different formats including "gitbook", or standard journal article formats. A similar approach using Rnotebooks would be to create an Rnotebook with codes and data woven and then uploaded to specific journal sites and data & text can be distributed. [Overleaf](http://www.overleaf.com) provides a latex authoring and hosting environment where research can be distributed. 
-
-Preprints provide an opportunity for wider dissemination of an author's work while the research waits for formal peer review and publication in journals that distribute the work. Preprint servers that can host public health related analyses may include [PeerJ preprint system](http://www.peerj.com), or [F1000](http://www.f1000.com). 
-
-
-
-```R
-! ls
-```
-
-
-    Error in !ls: invalid argument type
-    Traceback:
-
-
