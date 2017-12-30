@@ -57,9 +57,6 @@ Sharable jupyter notebooks can also be shared by [Binder.org](http://www.binder.
 
 
 
-```R
-43/69
-```
 
 
 0.623188405797101
