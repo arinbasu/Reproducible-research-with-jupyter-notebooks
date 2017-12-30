@@ -5,7 +5,7 @@ Reproducible and replicable research refer to a process of research where resear
 
 > The reproducibility of epidemiologic findings from current and future studies will be crucial to providing the substance for informed debate regarding policies affecting the public's health
 
-(cite peng2006)
+
 
 Using Schwab et.al. (2000) recommendations of reproducibility of research in the context of computer science, they suggest the following for public health interventions:
 
