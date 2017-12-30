@@ -59,7 +59,7 @@ Sharable jupyter notebooks can also be shared by [Binder.org](http://www.binder.
 
 
 
-0.623188405797101
+
 
 
 ## Results: an exploratory data analysis using this method
