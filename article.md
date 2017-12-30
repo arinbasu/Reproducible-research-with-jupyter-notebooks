@@ -55,7 +55,6 @@ Once in Authorea, do as follows:
 Sharable jupyter notebooks can also be shared by [Binder.org](http://www.binder.org) and the article distributed using Authorea or [PeerJ](https://peerj.com) or F1000. The data can be stored in [figshare](https://figshare.com), or in github itself. 
 
 
-
 ## Results: an exploratory data analysis using this method
 
 The results of this process is a description of the flow of work we have conducted in the process. We have already created an article in [Authorea]() We have implemented the workflow we described in the above steps in the steps where we integrate literate programming below. We will read the data set, then we will conduct preprocessing of the data, and we will save the resulting tables in the folder and we will use them in the final processing in Authorea. We will also use Authorea to store the data in the form of csv file, and the analyses in the form of ipynb file for sharing. Additionally, we will share the data through figshare and the notebook through binder for anyone to reproduce and work on the findings.  
